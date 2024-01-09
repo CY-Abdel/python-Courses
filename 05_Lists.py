@@ -207,5 +207,3 @@ print(list1)
 print(list1.count("a")) # 1 occurence
 print(list1.count(2)) # 3 occurences
 
-
-
