@@ -117,4 +117,3 @@ Iteration 7 (k = 0) :
 
 result = 0 (condition de base atteinte, la récursion s'arrête)
 """
-
