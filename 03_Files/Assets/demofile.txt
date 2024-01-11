@@ -1,0 +1,3 @@
+Bienvenue dans demofile.txt
+Ce fichier est destiné à des fins de test.
+Bonne chance!
